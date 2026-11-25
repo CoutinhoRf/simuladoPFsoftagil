@@ -1,6 +1,5 @@
-package simulad.example.sim.partida.dto;
+package simulad.example.sim.avalia.dto;
 
-import br.insper.arqui.entity.Pasta;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
