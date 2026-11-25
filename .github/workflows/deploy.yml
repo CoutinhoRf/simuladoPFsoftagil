@@ -5,9 +5,9 @@ on:
     branches: ["main"]
 
 env:
-  DOCKER_IMAGE: ezambomsantana/partida-ci
-  CONTAINER_NAME: partida
-  DOCKER_USER: ezambomsantana
+  DOCKER_IMAGE: coutinhorf/avaliacoes-ci
+  CONTAINER_NAME: avaliacoes
+  DOCKER_USER: coutinhorf
 
 jobs:
   build:
